@@ -1,4 +1,0 @@
-ToolSet: w64 3.3 (local)@C:\winbuilds\winx86_64
-Options: 
-
-Options:

@@ -1,3 +1,0 @@
-C:/Users/Niklas/CLionProjects/Auswertung/cmake-build-debug/CMakeFiles/Auswertung.dir
-C:/Users/Niklas/CLionProjects/Auswertung/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Niklas/CLionProjects/Auswertung/cmake-build-debug/CMakeFiles/rebuild_cache.dir
